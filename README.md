@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Leogabson
-- 👀 I’m interested in ... learning programing and coding 
-- 🌱 I’m currently learning ...Frontend development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...gabrielehuwa92@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in ... Full Stack Development
+- 
+- 🌱 I’m currently learning ...HTML
+- 💞️ I’m looking to collaborate on ...Projects
+- 📫 How to reach me ...gabrielehuwa92@gmail.com 
+- 😄 Pronouns: ...He
+- ⚡ Fun fact: ..
 
 <!---
 Leogabson/Leogabson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
