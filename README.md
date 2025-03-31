@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Leogabson
-- 👀 I’m interested in ... Full Stack Development
+- 👀 I’m interested in ... Frontend Web Development 
 - 
-- 🌱 I’m currently learning ...HTML
+- 🌱 I’m currently learning ... JavaScript 
 - 💞️ I’m looking to collaborate on ...Projects
 - 📫 How to reach me ...gabrielehuwa92@gmail.com 
 - 😄 Pronouns: ...He
