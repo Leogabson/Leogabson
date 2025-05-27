@@ -1,0 +1,87 @@
+h4 {
+  color: yellow;
+  font-family: sans-serif;
+  font-size: 18px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+.main-header {
+  background-color: rgba(128, 128, 128, 0.137);
+  padding: 10px;
+
+  display: flex;
+}
+
+.clock {
+  display: flex;
+  justify-content: space-between;
+
+  font-size: 20px;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+body {
+  background-color: black;
+}
+
+a:link {
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  font-weight: bold;
+}
+
+a:hover {
+  color: red;
+  text-decoration: dashed;
+}
+
+a:active {
+  text-decoration: dashed;
+  color: blue;
+}
+
+h3 {
+  text-align: center;
+}
+
+.footer {
+  margin-top: 500px;
+  letter-spacing: 55px;
+  /* margin-left: 800px; */
+  background-color: rgba(128, 128, 128, 0.137);
+  padding-right: 400px;
+  font-size: 25px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.time {
+  font-size: 50px;
+  font-weight: bolder;
+  color: white;
+}
+
+.signs {
+  font-size: 50px;
+  letter-spacing: 20px;
+  color: white;
+}
+
+.time-down {
+  font-size: 18px;
+  color: white;
+}
+
+.hold {
+  font-size: 18px;
+  color: white;
+}
