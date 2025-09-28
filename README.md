@@ -4,7 +4,7 @@
 🚀 Full-Stack Developer | Startup Founder | Tech Builder  
 
 I’m a **Computer Engineering student** and a passionate **full-stack web developer** building scalable apps that solve real-world problems.  
-Currently, I’m the founder of **[NexRate](https://github.com/nexrate-landing)** — a crypto and fintech platform reimagining how people trade, pay bills, and access everyday services, powered by AI.  
+Currently, I’m the founder of **[NexRate](https://nexrate.vercel.app)** — a crypto and fintech platform reimagining how people trade, pay bills, and access everyday services, powered by AI.  
 
 ---
 
