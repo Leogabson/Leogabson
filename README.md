@@ -10,8 +10,8 @@ Currently, I’m the founder of **[NexRate](https://nexrate.vercel.app)** — a 
 
 ## 🛠 Tech Stack
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB  
+- **Backend:** Node.js, Express, GO, Rust. 
+- **Database:** MongoDB, Postgresql
 - **Other:** REST APIs, Firebase, Git/GitHub, JWT Auth  
 - **Learning:** Cloud DevOps (AWS/GCP), AI integrations  
 
